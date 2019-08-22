@@ -15,3 +15,6 @@ this will keep
 +line
 
 from local master
+
+master feature+1
+master feature+2
