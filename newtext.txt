@@ -13,3 +13,5 @@ reset master to this(soft)
 this will keep
 
 +line
+
+from local master
